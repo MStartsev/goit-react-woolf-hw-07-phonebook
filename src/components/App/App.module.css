@@ -1,12 +1,13 @@
 .phonebook {
+  padding-top: 40px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   gap: 20px;
   max-width: 510px;
   width: 100%;
-  min-height: 99vh;
+  min-height: calc(99vh - 40px);
 
   margin: 0 auto;
 
