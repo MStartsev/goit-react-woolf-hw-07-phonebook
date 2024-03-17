@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/goit-react-woolf-hw-07-phonebook/static/css/main.29def351.css",
+    "main.js": "/goit-react-woolf-hw-07-phonebook/static/js/main.38cfb628.js",
+    "static/media/pacifico-latin-400.woff": "/goit-react-woolf-hw-07-phonebook/static/media/pacifico-latin-400.07b8ce64b28804524f7a.woff",
+    "static/media/pacifico-latin-400.woff2": "/goit-react-woolf-hw-07-phonebook/static/media/pacifico-latin-400.ae5963c91e524f379bf2.woff2",
+    "static/media/book.svg": "/goit-react-woolf-hw-07-phonebook/static/media/book.faee7f9b7de18fb91510555158f0f347.svg",
+    "static/media/telephonereceiver.svg": "/goit-react-woolf-hw-07-phonebook/static/media/telephonereceiver.1d8a9d725c2df7c4cbc5565908b92323.svg",
+    "index.html": "/goit-react-woolf-hw-07-phonebook/index.html",
+    "main.29def351.css.map": "/goit-react-woolf-hw-07-phonebook/static/css/main.29def351.css.map",
+    "main.38cfb628.js.map": "/goit-react-woolf-hw-07-phonebook/static/js/main.38cfb628.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29def351.css",
+    "static/js/main.38cfb628.js"
+  ]
+}
