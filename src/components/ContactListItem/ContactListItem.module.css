@@ -1,0 +1,61 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px;
+  background-color: rgba(80, 99, 103, 0.1);
+  border-radius: 8px;
+}
+
+.item_text {
+  min-width: 350px;
+  max-width: 412px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+
+.text {
+  text-align: left;
+  font-size: 14px;
+}
+
+.name {
+  display: inline-block;
+  text-align: left;
+  min-width: 175px;
+  max-width: 212px;
+  width: 100%;
+  height: 19px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.number {
+}
+
+.telephonereceiver {
+  display: block;
+  width: 24px;
+  height: 24px;
+  fill: rgb(80, 99, 103);
+}
+
+.btn_delete {
+  font-size: 10px;
+  padding: 3px 5px;
+  border: 1px solid #4b4a4a;
+  border-radius: 5px;
+  background-color: #a6dbd6;
+  color: #222222;
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+}
+
+.btn_delete:hover {
+  background-color: #618582;
+  color: #fff;
+}

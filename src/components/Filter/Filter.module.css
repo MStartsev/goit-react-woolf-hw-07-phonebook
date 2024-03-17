@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+  max-width: 320px;
+  min-width: 260px;
+
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.input {
+  width: 280px;
+  padding: 4px 8px;
+  border: 1px solid rgb(99, 114, 117);
+  background-color: #f1f3ec;
+  border-radius: 5px;
+  box-shadow: rgb(223, 238, 253) 3px 3px 3px inset,
+    rgb(236, 243, 250) 5px 5px 4px inset, white -5px -5px 4px inset;
+}
